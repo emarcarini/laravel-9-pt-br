@@ -1,4 +1,4 @@
-# laravel-9-pt-br
+# laravel 9 pt-br
 Tradução do Laravel 9.
 
 Instalaçao facil.
